@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Geoloacation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="dialog_fire_missiles">Geben sie dieser App erlaubnis auf ihren Standort zuzugreifen</string>
+    <string name="missile_title">Fehler</string>
+    <string name="fire">Ok</string>
+    <string name="cancel">Ok</string>
+</resources>
